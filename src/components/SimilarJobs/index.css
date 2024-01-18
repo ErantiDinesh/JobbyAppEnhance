@@ -1,0 +1,57 @@
+.similarItemBox {
+  background-color: #272727;
+  color: white;
+  list-style-type: none;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 10px;
+  width: 400px;
+}
+
+.similarBox1 {
+  display: flex;
+  align-items: center;
+}
+
+.companyLogoUrlSimilarItems {
+  height: 90px;
+  margin-right: 10px;
+}
+
+.ratingFlex {
+  display: flex;
+  align-items: center;
+}
+
+.starSimilarLogo {
+  color: yellow;
+  margin-right: 5px;
+}
+
+.headSimilarItemTitle {
+  font-size: 15px;
+}
+
+.descriptionItemSimilarbox {
+  color: white;
+}
+
+.locationAndTypeSimilarBox {
+  display: flex;
+  align-items: center;
+}
+
+.locationDivBox {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.similarLocotionLogo {
+  margin-right: 5px;
+}
+
+.similarItemsLink {
+  text-decoration: none;
+  outline: none;
+}

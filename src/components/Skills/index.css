@@ -1,0 +1,14 @@
+.skillsListItem {
+  display: flex;
+  align-items: center;
+  color: white;
+  margin-right: 200px;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.skillsImageLogo {
+  margin-right: 10px;
+  height: 25px;
+  list-style-type: none;
+}

@@ -1,0 +1,67 @@
+.companyLogo7 {
+  height: 70px;
+  margin-right: 15px;
+}
+
+.jobItemContainer {
+  list-style-type: none;
+}
+
+.starImageLogo {
+  color: yellow;
+  margin-right: 10px;
+}
+
+.inn7 {
+  display: flex;
+  align-items: center;
+}
+
+.titleHeaderComp7 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.jobItemBox1 {
+  display: flex;
+  align-items: center;
+}
+
+.jobItemContainer {
+  background-color: #272727;
+  margin-bottom: 10px;
+  padding: 15px;
+  border-radius: 7px;
+  margin-right: 35px;
+}
+
+.locationInn {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+
+.locationLogo {
+  margin-right: 5px;
+}
+
+.jobItemBox2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.locationAndType {
+  display: flex;
+  align-items: center;
+}
+
+.des7 {
+  font-weight: bold;
+}
+
+.linkJobItem {
+  text-decoration: none;
+  outline: none;
+  color: white;
+}

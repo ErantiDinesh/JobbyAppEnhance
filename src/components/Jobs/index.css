@@ -1,0 +1,110 @@
+.jobsContainer {
+  background-color: black;
+}
+
+.jobsProfile {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 200px;
+  width: 300px;
+  padding: 15px;
+  border-radius: 15px;
+  margin-top: 17px;
+}
+
+.jobsbox1 {
+  width: 23vw;
+  height: 100vh;
+  padding: 10px;
+  padding-left: 25px;
+}
+
+.profileImage {
+  height: 35px;
+  background-color: transparent;
+}
+
+.jobsHead1 {
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.jobsPara1 {
+  color: black;
+  font-size: 16px;
+}
+
+.horizontalLine {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 50px;
+}
+
+.lisiEmoply {
+  padding-left: 0px;
+}
+
+.typeEmpHead {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.jobBox2 {
+  width: 77vw;
+  color: white;
+  padding: 15px;
+}
+
+.jobBox {
+  display: flex;
+}
+
+.searchInput {
+  background-color: transparent;
+  border: 1px solid grey;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-right: none;
+  padding: 7px;
+  height: 35px;
+  color: white;
+  outline: none;
+  width: 250px;
+}
+
+.buttonSearch {
+  background-color: transparent;
+  border: 1px solid grey;
+  height: 35px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-left: none;
+}
+
+.searchImageLogo {
+  color: white;
+  font-size: 25px;
+}
+
+.searchHeadBox {
+  display: flex;
+  align-items: center;
+}
+
+.jobbyAppLists {
+  padding-left: 0px;
+}
+
+.NoJobsLogo {
+  height: 290px;
+  margin-top: 50px;
+}
+
+.NOlogoflex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,123 @@
+.mainCompanyContainer {
+  background-color: black;
+  padding: 45px;
+}
+
+.innerCompany1 {
+  background-color: #272727;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.oneOneCom {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.oneCom {
+  font-size: 13px;
+}
+
+.twoCom {
+  display: flex;
+  align-items: center;
+}
+
+.starLogoStyle {
+  color: yellow;
+  margin-right: 5px;
+}
+
+.comImageLogo {
+  height: 90px;
+  margin-right: 15px;
+}
+
+.twotwoCom {
+  display: flex;
+  align-items: center;
+  color: white;
+  justify-content: space-between;
+}
+
+.locationCom {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.locImageLogoCom {
+  margin-right: 5px;
+}
+
+.locationItem {
+  display: flex;
+  align-items: center;
+}
+
+.pacakgeCom {
+  margin-right: 25px;
+}
+
+.descrip1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+}
+
+.headdes1 {
+  font-size: 20px;
+}
+
+.headPara1 {
+  margin-right: 25px;
+}
+
+.jobDes1 {
+  color: white;
+  font-size: 15px;
+}
+
+.skillsHead1 {
+  color: white;
+  font-size: 20px;
+}
+
+.SkillItemsLogosANdNames {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.companyBoxLife1 {
+  display: flex;
+  color: white;
+}
+
+.comParaLife1 {
+  margin-right: 25px;
+}
+
+.vistPara1 {
+  margin-right: 25px;
+}
+
+.similarItemsflex {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
+
+.VistPara1 {
+  text-decoration: none;
+  color: blue;
+  display: flex;
+  align-items: center;
+}
+
+.imager7 {
+  margin-left: 5px;
+}
